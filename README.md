@@ -1,2 +1,9 @@
-# CodSoft-Internship-Java-Tasks
-This repository contains the Java programming tasks completed during my CodSoft Internship. It includes projects such as a Number Guessing Game, ATM Interface, and Currency Converter, showcasing core concepts of Java like conditionals, loops, switch-case, input handling, and basic logic building.
+# 🚀 CodSoft Internship Tasks
+
+Repository containing 3 completed tasks:
+
+1. Task 1 - Number Guessing Game
+2. Task 2 - ATM System
+3. Task 3 - Currency Converter
+
+Each folder contains Java code and a README for the respective task.
